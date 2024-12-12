@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBS_DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+231bbb7a33c3564a2fe04a52ee3e80551983db52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dcbfa98fbff8f0a593e64f68521123bc496e355")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBS_DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBS_DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
