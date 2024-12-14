@@ -1,5 +1,5 @@
 # Project-1-StudentInformationSystem
- The Student Information System (SIS) is a desktop application designed to manage and organize student data for educational institutions. Built with .NET Core 6 / .NET Core 8 and PostgreSQL, this system provides a user-friendly interface for administrators, faculty, and students to access and manage academic records, personal information, course enrollments, and more.
+ The Student Information System (SIS) is a 'Desktop Application' designed to manage and organize student data for educational institutions. Built with .NET Core 8 and PostgreSQL, this system provides a user-friendly interface for administrators, faculty, and students to access and manage academic records, personal information, course enrollments, and more.
 
 ## Key Features:
 ### Student Management: 
