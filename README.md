@@ -27,7 +27,7 @@ Role-based access control with secure login for students, faculty, and administr
 Generate academic and administrative reports for analysis and record-keeping.
 
 ## Technologies Used:
-### .NET Core 6 / 8: 
+### .NET 8: 
 A modern, high-performance framework for building cross-platform desktop applications.
 ### PostgreSQL: 
 A reliable relational database management system for securely storing student data.
