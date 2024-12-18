@@ -2939,11 +2939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
       "projectName": "OBS_DataAccessLayer",
-      "projectPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+      "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-      "outputPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\obj\\",
+      "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3015,13 +3015,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Paket güvenlik açığı verileri alınırken hata oluştu: https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor."
-    }
-  ]
+  }
 }

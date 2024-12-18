@@ -22,6 +22,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OBS_PresentationLayer
-build_property.ProjectDir = D:\Sena Dosyalar\Project-2-StudentInformationSystem - Kopya\OBS\OBS_PresentationLayer\
+build_property.ProjectDir = D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

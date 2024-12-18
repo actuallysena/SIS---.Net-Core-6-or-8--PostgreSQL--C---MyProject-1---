@@ -249,3 +249,14 @@ D:\Sena Dosyalar\Project-2-StudentInformationSystem - Kopya\OBS\OBS_Presentation
 D:\Sena Dosyalar\Project-2-StudentInformationSystem - Kopya\OBS\OBS_PresentationLayer\obj\Debug\net8.0-windows\OBS_PresentationLayer.genruntimeconfig.cache
 D:\Sena Dosyalar\Project-2-StudentInformationSystem - Kopya\OBS\OBS_PresentationLayer\obj\Debug\net8.0-windows\ref\OBS_PresentationLayer.dll
 D:\Sena Dosyalar\Project-2-StudentInformationSystem - Kopya\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\appsettings.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\appsettings.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\OBS_BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\OBS_DataAccessLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\OBS_BusinessLogicLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_PresentationLayer\bin\Debug\net8.0-windows\OBS_DataAccessLayer.pdb

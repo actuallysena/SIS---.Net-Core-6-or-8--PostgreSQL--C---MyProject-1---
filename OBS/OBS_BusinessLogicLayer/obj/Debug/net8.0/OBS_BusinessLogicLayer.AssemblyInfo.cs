@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBS_BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dcbfa98fbff8f0a593e64f68521123bc496e355")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29d88428413f83391fc14274171676568dec7f5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBS_BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBS_BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

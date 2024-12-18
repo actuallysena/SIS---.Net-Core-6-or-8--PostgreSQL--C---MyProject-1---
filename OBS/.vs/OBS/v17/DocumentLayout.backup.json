@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\",
+  "WorkspaceRootPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59908737-4E77-4401-B650-9B8A73FBF0D8}|OBS_PresentationLayer\\OBS_PresentationLayer.csproj|d:\\sena dosyalar\\project-2-studentinformationsystem - kopya\\obs\\obs_presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59908737-4E77-4401-B650-9B8A73FBF0D8}|OBS_PresentationLayer\\OBS_PresentationLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\obs_presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59908737-4E77-4401-B650-9B8A73FBF0D8}|OBS_PresentationLayer\\OBS_PresentationLayer.csproj|solutionrelative:obs_presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|d:\\sena dosyalar\\project-2-studentinformationsystem - kopya\\obs\\obs_dataaccesslayer\\interfaces\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\obs_dataaccesslayer\\interfaces\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|solutionrelative:obs_dataaccesslayer\\interfaces\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|d:\\sena dosyalar\\project-2-studentinformationsystem - kopya\\obs\\obs_dataaccesslayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\obs_dataaccesslayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|solutionrelative:obs_dataaccesslayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|d:\\sena dosyalar\\project-2-studentinformationsystem - kopya\\obs\\obs_dataaccesslayer\\obs_dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\obs_dataaccesslayer\\obs_dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{91715D1D-54B3-4EBF-BD15-CF4662DA3080}|OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj|solutionrelative:obs_dataaccesslayer\\obs_dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -32,53 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\Interfaces\\GenericRepository.cs",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\Interfaces\\GenericRepository.cs",
               "RelativeDocumentMoniker": "OBS_DataAccessLayer\\Interfaces\\GenericRepository.cs",
-              "ToolTip": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\Interfaces\\GenericRepository.cs",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\Interfaces\\GenericRepository.cs",
               "RelativeToolTip": "OBS_DataAccessLayer\\Interfaces\\GenericRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T12:22:51.783Z",
+              "WhenOpened": "2024-12-18T10:07:55.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "OBS_DataAccessLayer\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "OBS_DataAccessLayer\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T12:22:10.933Z",
+              "WhenOpened": "2024-12-18T10:07:55.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\Program.cs",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\Program.cs",
               "RelativeDocumentMoniker": "OBS_PresentationLayer\\Program.cs",
-              "ToolTip": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\Program.cs",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\Program.cs",
               "RelativeToolTip": "OBS_PresentationLayer\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T12:18:57.487Z",
+              "WhenOpened": "2024-12-18T10:07:55.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "OBS_DataAccessLayer.csproj",
-              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
               "RelativeDocumentMoniker": "OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
-              "ToolTip": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
               "RelativeToolTip": "OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T20:29:56.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T10:07:55.392Z"
             }
           ]
         }

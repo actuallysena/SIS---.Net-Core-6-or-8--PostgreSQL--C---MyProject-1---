@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj": {}
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj": {}
   },
   "projects": {
-    "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj",
         "projectName": "OBS_BusinessLogicLayer",
-        "projectPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_BusinessLogicLayer\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
         "projectName": "OBS_DataAccessLayer",
-        "projectPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj",
         "projectName": "OBS_PresentationLayer",
-        "projectPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\OBS_PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_PresentationLayer\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,11 +176,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj": {
-                "projectPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_BusinessLogicLayer\\OBS_BusinessLogicLayer.csproj"
               },
-              "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj": {
-                "projectPath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj"
               }
             }
           }

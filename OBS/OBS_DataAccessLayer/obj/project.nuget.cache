@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WvmWt3z8eCw=",
+  "dgSpecHash": "6vtLPmGa1OA=",
   "success": true,
-  "projectFilePath": "D:\\Sena Dosyalar\\Project-2-StudentInformationSystem - Kopya\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
+  "projectFilePath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\OBS_DataAccessLayer\\OBS_DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sena\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sena\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
@@ -49,12 +49,5 @@
     "C:\\Users\\sena\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
     "C:\\Users\\sena\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Paket güvenlik açığı verileri alınırken hata oluştu: https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor."
-    }
-  ]
+  "logs": []
 }
