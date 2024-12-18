@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBS_PresentationLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29d88428413f83391fc14274171676568dec7f5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b234ff8f74d3c5a1e74436ee3e7d317a77e2deb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBS_PresentationLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBS_PresentationLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
